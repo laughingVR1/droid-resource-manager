@@ -988,8 +988,8 @@ interface AISettings {
 }
 
 const DEFAULT_AI_SETTINGS: AISettings = {
-  url: 'http://43.134.190.112:3000/v1/chat/completions',
-  apiKey: 'sk-0bMcBMw1fzFb0uh71WydfaE9dihEcdo97OcxigcwrzqabAZA',
+  url: '',
+  apiKey: '',
   model: 'gpt-4o-mini',
   skillsModel: 'gpt-4o-mini'
 }

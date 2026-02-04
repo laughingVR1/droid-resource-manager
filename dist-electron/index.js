@@ -1902,8 +1902,8 @@ electron.ipcMain.handle("resource-center-mcp-add", (_, name, config) => resource
 electron.ipcMain.handle("resource-center-skill-create", (_, name, content) => createSkill(name, content, "project", RESOURCE_CENTER_PATH));
 const AI_SETTINGS_FILE = path.join(electron.app.getPath("userData"), "ai-settings.json");
 const DEFAULT_AI_SETTINGS = {
-  url: "http://43.134.190.112:3000/v1/chat/completions",
-  apiKey: "sk-0bMcBMw1fzFb0uh71WydfaE9dihEcdo97OcxigcwrzqabAZA",
+  url: "",
+  apiKey: "",
   model: "gpt-4o-mini",
   skillsModel: "gpt-4o-mini"
 };
